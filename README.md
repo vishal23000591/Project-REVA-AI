@@ -16,8 +16,8 @@ It integrates multiple intelligent microservices into a federated and tamper-res
 | Resume Builder               | AI-powered ATS-optimized resume creation tool                     | [https://resume-builder-c5o9.onrender.com/builder](https://resume-builder-c5o9.onrender.com/builder)   |
 | Interview Simulation         | Real-time AI interview system with feedback analytics             | [https://ai-interview-ib4n.onrender.com](https://ai-interview-ib4n.onrender.com)                       |
 | Skill Gap Analyzer           | Machine learning model for skill benchmarking and recommendations | [https://skill-gap-analysis-2-cfuw.onrender.com](https://skill-gap-analysis-2-cfuw.onrender.com)       |
+| Skill Assessment             | Online platform for evaluating and tracking candidate skills      | [https://reva-ai-skill-assessment.onrender.com](https://reva-ai-skill-assessment.onrender.com)        |
 
----
 
 ## Project Overview
 
